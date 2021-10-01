@@ -1,0 +1,29 @@
+PLAN 1
+Masalah
+- Masalah yang kelompok kami temui saat mengerjakan story line ini bingung bagaimana cara mengerjakannya, tutorial youtube yang susah, sulitnya mendapatkan asset game yang sesuai, dan kurang pengetahuan akan pembuatan game dengan game engine RPG Maker
+
+Fakta
+- Fakta yang kelompok kami miliki, kami tidak mendapatkan pelajaran mengenai RPG Maker, kami kebingungan dengan asset game kami, kami sudah berusaha semaksimal mungkin dalam mengerjakan story line ini
+
+Solusi
+- Kami merubah story line kami dengan story line terbaru
+
+PLAN 2
+Masalah
+- Masalah yang kelompok kami temui saat mengerjakan story line ini tidak ada, lancar lancar saja tidak ada masalah
+
+Fakta
+- Fakta yang kelompok kami miliki, kami mendapatkan pelajaran mengenai netbeans dan bahasa pemrograman java, sehinnga lancar saja saat mengerjakan story line ini
+
+Solusi
+- Kami mengerjakan Game Tebak Gambar dengan mudah tanpa hambatan, kami juga menyiapkan game yang terbuat dari construct 2 dengan versi story line yang berbeda
+
+PLAN 3
+Masalah
+- Masalah yang kelompok kami temui saat mengerjakan story line ini, awalnya kami tidak mengerti cara mengerjakan game tutorial youtube yang susah.
+
+Fakta
+- Fakta yang kelompok kami miliki, kami tidak mendapatkan pelajaran mengenai Construct 2, kami berusaha semaksimal mungkin dalam mengerjakan story line ini
+
+Solusi
+- Kami mengerjakan Game Parkir ini, dengan bantuan tutorial youtube, dan dengan bantuan teman kami Frisnady Try Putra, akhirnya terselesaikan game ini

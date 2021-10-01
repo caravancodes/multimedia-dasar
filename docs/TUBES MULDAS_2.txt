@@ -1,0 +1,13 @@
+- BRAINSTORMING (STORYlINE)
+	
+	seorang adventurer baru di sebuah desa memulai 
+	perjalanannya menuju ibukota untuk menjadi 
+	seorang prajurit elite.
+	dalam perjalannya dia bertemu dengan teman baru, melewati banyak tempat dan
+	melawan bandit dan monster untuk mengasah diri untuk menjadi
+	sorang prajurit.
+	   
+	
+, GAMIFICATION
+	gameplay : RTTBS (real time turn based strategy)
+	genre	 : RPG

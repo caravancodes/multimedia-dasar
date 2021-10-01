@@ -1,0 +1,26 @@
+Judul : Tebak Gambar
+
+Muhammad Faisal Amir 6706160014
+M.Ikhsan Ramadhan 6706162062
+Rizky Hilman Faturrahman 6706164110
+
+
+Genre
+casual, puzzle
+
+Deskripsi
+	Game ini dibuat untuk mengasah kecerdasan player 
+dengan menyusun sebuah kata dari gambar yang diberikan 
+di setiap levelnya, tingkat kesulitannya akan meningkat 
+setiap kali player menyelesaikan sebuah level.
+
+Gameplay
+Player harus menebak kalimat dari gambar yang diberikan disetiap level
+dengan cara mengetikkan jawaban tersebut pada kolom jawaban dan menekan
+tombol jawab. player tidak dapat meneruskan level jika tidak mendapat
+jawaban yang benar.
+
+Role Member tim
+Programmer	: Muhammad Faisal Amir		6706160014
+Designer	: Muhammad Ikhsan Ramadhan	6706162062
+Concept		: Rizky Hilman Faturrahman	6706164110

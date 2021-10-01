@@ -1,0 +1,28 @@
+Judul : Tebak Gambar
+
+Muhammad Faisal Amir 6706160014
+M.Ikhsan Ramadhan 6706162062
+Rizky Hilman Faturrahman 6706164110
+
+
+Genre
+puzzle
+
+Deskripsi
+	di dunia yang sempit ini tidak banyak lahan kosong 
+yang tersisa untuk memarkirkan sebuah kendaraan. Untungnya anda
+adalah sorang driver handal. anda mendapat pekerjaan sebagai 
+valet parking disebuah restaurant ternama, tugas anda adalah untuk
+mem-parkir-kan kendaraan tamu dengan aman dan rapih.
+
+Gameplay
+Player akan menjadi seorang valet parking dan harus memparkirkan kendaraan
+dengan aman di tempat parkir.
+Gunakan tombol Arrow atas (^) untuk akselerasi dan tombol Arrow bawah untuk (v)
+reverse kendaraan anda. gunakan tombol Arrow kanan (>) untuk berbelok ke kanan
+dan tombol Arrow kiri (<) untuk belok kearah kiri
+
+Role Member tim
+Programmer	: Muhammad Faisal Amir		6706160014
+Designer	: Muhammad Ikhsan Ramadhan	6706162062
+Game Concept	: Rizky Hilman Faturrahman	6706164110
